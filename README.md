@@ -9,6 +9,7 @@ To run script simply download it, right click on it and click "Run with PowerShe
 ### KeyPusher
 
 _You were probably looking for this one_
+
 Presses Shift+F15 every 6o seconds to imitate avtivity. Keeps MS Teams in Active mode.
 
 ### MouseMover
